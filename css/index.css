@@ -1,0 +1,12 @@
+body
+{
+    font-family: 'Bitter', serif;
+}
+#background {
+    background-image: url('https://images.unsplash.com/photo-1522617804560-8454764f1815?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1053&q=80');
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+#fact, #mathfact, #yearfact{
+    display:none;
+}
